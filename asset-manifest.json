@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kenofnz/js-game-poc/static/css/main.5f361e03.chunk.css",
+    "main.js": "/kenofnz/js-game-poc/static/js/main.7cd5ac75.chunk.js",
+    "main.js.map": "/kenofnz/js-game-poc/static/js/main.7cd5ac75.chunk.js.map",
+    "runtime-main.js": "/kenofnz/js-game-poc/static/js/runtime-main.eda3fff7.js",
+    "runtime-main.js.map": "/kenofnz/js-game-poc/static/js/runtime-main.eda3fff7.js.map",
+    "static/js/2.74168054.chunk.js": "/kenofnz/js-game-poc/static/js/2.74168054.chunk.js",
+    "static/js/2.74168054.chunk.js.map": "/kenofnz/js-game-poc/static/js/2.74168054.chunk.js.map",
+    "index.html": "/kenofnz/js-game-poc/index.html",
+    "precache-manifest.bfaaf8c8a110a1f31872ccda0d697073.js": "/kenofnz/js-game-poc/precache-manifest.bfaaf8c8a110a1f31872ccda0d697073.js",
+    "service-worker.js": "/kenofnz/js-game-poc/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/kenofnz/js-game-poc/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.74168054.chunk.js.LICENSE.txt": "/kenofnz/js-game-poc/static/js/2.74168054.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eda3fff7.js",
+    "static/js/2.74168054.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7cd5ac75.chunk.js"
+  ]
+}
